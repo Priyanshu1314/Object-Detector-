@@ -1,5 +1,4 @@
 # Object-Detector-
-Real-time Object Detection system built using Python and YOLO model, capable of detecting multiple objects from live video or images with high accuracy.
 This project implements a real-time Object Detection system using the YOLO (You Only Look Once) model and the COCO dataset. The system identifies and labels multiple objects in images or video streams with high accuracy.
 
 Key Features:
